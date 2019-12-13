@@ -12,4 +12,8 @@ public class Hello1
 	public void fun3(){
 		System.out.println("Hello1 - fun3");		
 	}
+	
+	public void myFunction4(){
+		System.out.println("Hello1 - myFunction4 - added by Feature1 Branch");		
+	}
 }
